@@ -1,2 +1,1 @@
-# portfolio
-This is finished 'pet' project in a portfolio
+Тут лежат прокты, которые я могу показать.

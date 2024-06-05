@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+pymodbus==2.5.3
+pyserial==3.5
+python-dotenv==0.19.1
+schedule==1.2.0
+six==1.16.0
